@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  /*background-color: #000000;*/
+}
+
+.principal {
+  margin-top: 2rem;
+}
+
+.img {
+  width: 36.438rem;
+  height: 23.438rem;
+  margin-bottom: 5rem;
+}
+
+.paragraph {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  width: 18.688rem;
+  height: 1.25rem;
+  font-weight: 400;
+  line-height: 2.375rem;
+}
+
+.div-from {
+  margin: 2rem;
+}
+
+.div-to {
+  margin: 2rem;
+}
