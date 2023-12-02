@@ -27,21 +27,14 @@
   font-size: 2rem;
   font-weight: 400;
   line-height: 2.375rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   text-align: center;
-}
-
-.div-from {
-  margin: 2rem;
-}
-
-.div-to {
-  margin: 2rem;
 }
 
 .div-from,
 .div-to {
   display: inline-block;
+  margin: 2rem;
 }
 
 .label {
@@ -54,10 +47,10 @@
 }
 
 .input {
-  border: 1px solid #ffffff33;
-  border-radius: 14px;
+  border: 0.063rem solid #ffffff33;
+  border-radius: 0.875rem;
   color: white;
-  font-size: 40px;
+  font-size: 2.5rem;
   font-weight: 500;
   padding: 1rem;
 }
@@ -65,12 +58,13 @@
 .btn {
   background: #ff0000;
   border: none;
-  border-radius: 10px;
+  border-radius: 0.625rem;
   color: white;
   cursor: pointer;
+  font-size: 2rem;
   font-weight: 700;
-  height: 72px;
-  width: 342px;
+  height: 4.5rem;
+  width: 21.375rem;
 }
 
 .btn:hover {
